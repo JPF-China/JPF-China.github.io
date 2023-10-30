@@ -1,2 +1,3 @@
 # JPF-China.github.io
-test
+## 目的
+* 这是一个用于测试github pages的网站
